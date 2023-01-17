@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Mahbub",
+        "img": "https://i.ibb.co/VBtgYdN/mahbub.jpg",
+        "degree": "MBBS, PGT (Gynecologist and OBS), FCPS(Gynecologist and OBS) Last Stage CMU(ULTRA), Obstetricians and Gynecologists and Dentist.",
+        "position":"Permanent Doctor of Life Aid Medical Center",
+        "fees":500,
+        "available":"Sunday To Friday",
+        "dayAvailable":"10:00 Am To 5:00 PM"
+    },
+    {      
+        "name": "Juyel",
+        "img":"https://i.ibb.co/jGrNcX9/juyel.jpg",
+        "degree": "MBBS, PGT (Gynecologist and OBS), FCPS(Gynecologist and OBS) Last Stage CMU(ULTRA), Obstetricians and Gynecologists and Dentist.",
+        "position":"Permanent Doctor of Life Aid Medical Center",
+        "fees":500,
+        "available":"Everyday",
+        "dayAvailable":"10:00 Am To 5:00 PM"
+    },
+    {
+        "name": "Sharif",
+        "img":"https://i.ibb.co/vLfwqQD/sharif.jpg",
+        "degree": "MBBS, PGT (Gynecologist and OBS), FCPS(Gynecologist and OBS) Last Stage CMU(ULTRA), Obstetricians and Gynecologists and Dentist.",
+        "position":"Permanent Doctor of Life Aid Medical Center",
+        "fees":500,
+        "available":"Everyday",
+        "dayAvailable":"10:00 Am To 5:00 PM"
+    }
+]
